@@ -1,0 +1,6 @@
+{
+  "name": "Apex Snake Arcade",
+  "description": "A feature-rich classic Snake game with themes, touch controls, sound effects, high score tracking, and Gemini AI Game Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
